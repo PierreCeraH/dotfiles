@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierrecerahuelva@gmail.com
+	name = Pierre Cera
